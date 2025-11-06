@@ -43,15 +43,15 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/YOUR_USERNAME/comfyui-haigc-mask-nodes"
-Homepage = "https://github.com/YOUR_USERNAME/comfyui-haigc-mask-nodes"
-Documentation = "https://github.com/YOUR_USERNAME/comfyui-haigc-mask-nodes#readme"
-Issues = "https://github.com/YOUR_USERNAME/comfyui-haigc-mask-nodes/issues"
+Repository = "https://github.com/HAIGC/comfyui_haigc_mask"
+Homepage = "https://github.com/HAIGC/comfyui_haigc_mask"
+Documentation = "https://github.com/HAIGC/comfyui_haigc_mask#readme"
+Issues = "https://github.com/HAIGC/comfyui_haigc_mask/issues"
 
 [tool.comfy]
 # 发布者ID - 需要先在 Comfy Registry 注册获取
 # 访问 https://registry.comfy.org/ 注册并获取您的 PublisherId
-PublisherId = "YOUR_PUBLISHER_ID"
+PublisherId = "HAIGC"
 
 # 显示名称 - 在 ComfyUI 管理器中显示的名称
 DisplayName = "HAIGC 遮罩处理套件"
